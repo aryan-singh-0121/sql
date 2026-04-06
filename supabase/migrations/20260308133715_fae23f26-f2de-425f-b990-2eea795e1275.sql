@@ -1,0 +1,1 @@
+ALTER TABLE public.admin_settings ADD COLUMN site_title text DEFAULT 'PG Compiler';

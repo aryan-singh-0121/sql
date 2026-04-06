@@ -1,0 +1,1 @@
+ALTER TABLE public.admin_settings ADD COLUMN instagram_url text DEFAULT 'https://www.instagram.com/_aryan_singh0121/';

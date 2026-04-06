@@ -1,0 +1,1 @@
+ALTER TABLE public.admin_settings ADD COLUMN instagram_popup_enabled boolean DEFAULT true;

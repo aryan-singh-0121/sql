@@ -1,0 +1,1 @@
+ALTER TABLE public.admin_settings ADD COLUMN favicon_url text DEFAULT null;
